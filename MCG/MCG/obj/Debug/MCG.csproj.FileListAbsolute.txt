@@ -1,0 +1,22 @@
+E:\VIN2Chassis Converter\VIN2Chassis Converter\obj\Debug\VIN2Chassis_Converter.mainForm.resources
+E:\VIN2Chassis Converter\VIN2Chassis Converter\obj\Debug\MCG.csproj.GenerateResource.Cache
+E:\VIN2Chassis Converter\VIN2Chassis Converter\bin\Debug\MCG.exe.config
+E:\VIN2Chassis Converter\VIN2Chassis Converter\bin\Debug\MCG.exe
+E:\VIN2Chassis Converter\VIN2Chassis Converter\bin\Debug\MCG.pdb
+E:\VIN2Chassis Converter\VIN2Chassis Converter\obj\Debug\MCG.Properties.Resources.resources
+E:\VIN2Chassis Converter\VIN2Chassis Converter\obj\Debug\MCG.exe
+E:\VIN2Chassis Converter\VIN2Chassis Converter\obj\Debug\MCG.pdb
+E:\VIN2Chassis Converter\VIN2Chassis Converter\obj\Debug\MCG.csprojResolveAssemblyReference.cache
+S:\Programming\C#\MCG\MCG\bin\Debug\MCG.exe.config
+S:\Programming\C#\MCG\MCG\obj\Debug\MCG.exe
+S:\Programming\C#\MCG\MCG\obj\Debug\MCG.pdb
+S:\Programming\C#\MCG\MCG\bin\Debug\MCG.exe
+S:\Programming\C#\MCG\MCG\bin\Debug\MCG.pdb
+S:\Programming\C#\MCG\MCG\obj\Debug\MCG.csprojResolveAssemblyReference.cache
+S:\Programming\C#\MCG\MCG\obj\Debug\VIN2Chassis_Converter.mainForm.resources
+S:\Programming\C#\MCG\MCG\obj\Debug\MCG.Properties.Resources.resources
+S:\Programming\C#\MCG\MCG\obj\Debug\MCG.csproj.GenerateResource.Cache
+S:\Programming\C#\MCG\MCG\bin\Debug\MCG.exe.manifest
+S:\Programming\C#\MCG\MCG\bin\Debug\MCG.application
+S:\Programming\C#\MCG\MCG\obj\Debug\MCG.exe.manifest
+S:\Programming\C#\MCG\MCG\obj\Debug\MCG.application
